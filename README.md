@@ -2,7 +2,7 @@
 - 👀 I’m interested in game development as well as any project literally anything please :(
 - 🌱 I’m currently learning C++ and C#
 - 💞️ I’m looking to collaborate on everything
-- 📫 How to reach me 
+- 📫 How to reach me jjermish244@gmail.com
 
 <!---
 Jermish0/Jermish0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
